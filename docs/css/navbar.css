@@ -1,7 +1,7 @@
 :root {
     --base-font-size: 18px;
     --line-height: 1.6;
-    --primary-color: #3e513b;
+    --primary-color: #3b4151;
     --link-color: #007acc;
     --container-padding: 15px;
 }
@@ -19,10 +19,10 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: var(--container-padding);
-    background: var(--primary-color) url('../images/NavBackground.png') no-repeat center / cover;
+    background: var(--primary-color) url('../images/EggHeader.png') no-repeat center / cover;
     color: white;
     position: relative;
-    box-shadow: inset 0 0 0 1000px rgba(62, 81, 59, 0.8);
+    box-shadow: inset 0 0 0 1000px rgba(59, 65, 81, 0.8);
     clear: both;
     z-index: 10;
 }
@@ -125,9 +125,9 @@ footer {
     justify-content: space-between;
     align-items: flex-start;
     padding: 10px 20px;
-    background: var(--primary-color) url('../images/NavBackground.png') no-repeat center / cover;
+    background: var(--primary-color) url('../images/EggHeader.png') no-repeat center / cover;
     color: white;
-    box-shadow: inset 0 0 0 1000px rgba(62, 81, 59, 0.8);
+    box-shadow: inset 0 0 0 1000px rgba(59, 65, 81, 0.8);
     gap: 10px;
     clear: both;
     position: relative;
