@@ -10,7 +10,7 @@ body {
     font-size: var(--base-font-size);
     line-height: var(--line-height);
     margin: 0 auto;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Rockwell', sans-serif;
     background-color: #b0ceb0;
 }
 
@@ -237,7 +237,7 @@ footer {
 }
 
 .subscribe-btn {
-    background-color: #b3a862;
+    background-color: #aecee5;
     color: white;
     border: none;
     padding: 8px 16px;
