@@ -33,11 +33,7 @@ app.get(routes.home, (req, res) => {
     res.render('index');
 });
 
-/*app.get(routes.LinkPage, (req, res) => {
-    res.render('LinkPage');
-});
-
-app.use((req, res) => {
+/*app.use((req, res) => {
     res.status(404).render('404', { title: '404: Page Not Found' });
 });*/
 
